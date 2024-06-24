@@ -1,4 +1,13 @@
 
+<br/><br/>
+ Không tấn công bất kỳ trang web nào mà bạn không sở hữu
+ Điều này được tạo ra cho mục đích giáo dục<br/>
+ Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm !<br><br/>
+
+# Language
+ <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
+</div>
+
 git clone https://github.com/KAR13MA09/NTTT-DDoS-v1
 #
 python ddos.py https://chinhphu.com/ 30 60 5
