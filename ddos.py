@@ -7,7 +7,7 @@ from colorama import Fore, Style
 import random
 from datetime import datetime
 import threading
-import os
+import os 
 import re
 
 def remove_port__(proxy):
