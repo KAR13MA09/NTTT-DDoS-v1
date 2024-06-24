@@ -82,8 +82,8 @@ def main(args):
     except Exception as e:
         print("LỖI:",e)
 if __name__ == "__main__":
-    parser = argparse.ArgumentParser(description="DDoS tool")
-    parser.add_argument("website", help="Target website URL")
+    parser = argparse.ArgumentParser(description="NTTT-DDoS-tool-v1")
+    parser.add_argument("website", help="NTTT-DDoS-v1 website URL")
     parser.add_argument("time", type=int, help="Time")
     parser.add_argument("rate", type=int, help="Rate")
     parser.add_argument("thread", type=int, help="Thread")
