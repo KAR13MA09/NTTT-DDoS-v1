@@ -1,8 +1,8 @@
 
 <br/><br/>
- Không tấn công bất kỳ trang web nào mà bạn không sở hữu
- Điều này được tạo ra cho mục đích giáo dục<br/>
- Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi không chịu trách nhiệm !<br><br/>
+Tôi Khuyên Bạn không nên tấn công bất kỳ trang web nào mà bạn không sở hữu hay chính phủ và bộ giáo dục.
+ Tool này được tạo ra cho mục đích giáo dục<br/>
+ Tất cả trách nhiệm của các bạn khi dùng tool này , chúng tôi sẽ không chịu trách nhiệm !<br><br/>
 
 # Language
  <img src="https://img.shields.io/badge/Python-FFDD00?style=for-the-badge&logo=python&logoColor=blue"/></br>
